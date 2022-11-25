@@ -1,6 +1,6 @@
 let dict = [
-	"drevorubač",
-	"hnusné číslo",
+	"amerikáno",
+	"izolace",
 	"zneužít",
 	"Zuzka",
 	"kolieska",
